@@ -15,7 +15,7 @@ O projeto foi desenhado como uma solução de **"arquivo único"** (single file)
 <br>
 
 ## 🛠️ Ferramentas e Tecnologias
-* **Gemini 1.5 Flash:** O modelo de IA que processa áudio, entende o contexto e gera a resposta.
+* **Gemini 2.5 Flash:** O modelo de IA que processa áudio, entende o contexto e gera a resposta.
 * **gTTS (Google Text-to-Speech):** Biblioteca responsável por transformar a resposta de texto em fala (.mp3).
 * **JavaScript API:** Integrada ao Python para acessar o hardware do microfone através do navegador.
 * **Python:** Linguagem base que orquestra o fluxo de dados e os arquivos.
